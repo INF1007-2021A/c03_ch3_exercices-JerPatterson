@@ -8,7 +8,7 @@ test_to_radians (__main__.TestExercice) ... ok
 FAIL: test_to_degrees (__main__.TestExercice)
 ----------------------------------------------------------------------
 Traceback (most recent call last):
-  File "C:\Users\patte\OneDrive\Documents\Polytechnique\Intro à la programmation\Exercices\c03_ch3_exercices-JerPatterson\test_exercice.py", line 59, in test_to_degrees
+  File "test_exercice.py", line 59, in test_to_degrees
     self.assertListEqual(
 AssertionError: Lists differ: [(114, 35, 29), (-229, -10, -59), (286, 28,[15 chars] 23)] != [(79.0980174562859, 5.881047377154118, 29.6[197 chars]998)]
 
